@@ -39,7 +39,7 @@
 
 ## 👋 Who I Am
 
-I'm a **Computer Science & Engineering ** graduate focused on **full-stack development and backend engineering**, with an interest in building scalable and efficient software systems..
+I'm a **Computer Science & Engineering** graduate focused on **full-stack development and backend engineering**, with an interest in building scalable and efficient software systems..
 
 I develop practical web applications using **JavaScript, TypeScript, React, Node.js, Express.js, SQL and MongoDB**, while exploring **Redis, Docker and system design** to deepen my backend knowledge.
 
