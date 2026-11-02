@@ -26,7 +26,7 @@
 #### Software Engineer · Editor 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Software+Engineer+%7C+UI%2FUX+%40+Designer;Editor+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Software+Engineer+%7C+Visual%2FDigital+Content+Lead+%40+Homchang;UI%2FUX+Designer+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
