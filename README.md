@@ -26,7 +26,7 @@
 #### Aspiring Software Engineer · Full-Stack & Backend Development
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Developer+%7C+Backend+Engineering+%E2%9A%A1;Building+Scalable+Web+Applications+%26+APIs;Visual+%26+Digital+Content+Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Developer+%7C+Backend+Engineering;Building+Scalable+Web+Applications+%26+APIs+%E2%9A%A1;Visual+%26+Digital+Content+Lead+%40+Homchang" alt="Typing SVG" />
 </a>
 
 </div>
