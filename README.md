@@ -31,7 +31,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 🚀 _"I build full-stack applications and explore backend engineering — turning ideas into practical projects while continuously learning and improving my development skills."_
+### 👾 _"I build full-stack applications and explore backend engineering — turning ideas into practical projects while continuously learning and improving my development skills."_
 
 </div>
 
@@ -165,6 +165,6 @@ I'm passionate about understanding how systems work behind the scenes, solving r
 
 **_Thanks for stopping by! Let's build, learn and create something meaningful together._**
 
-⭐️ If you find my work useful, consider [following](https://github.com/VeryCoolDavid) or starring a repo.
+😄 If you find my work useful, consider [following](https://github.com/VeryCoolDavid) or starring a repo.
 
 </div>
