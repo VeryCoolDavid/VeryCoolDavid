@@ -4,7 +4,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# David Debbarma
+# Hi I'm David Debbarma
 
 #### Software Engineer · Full-Stack & Backend Development
 
