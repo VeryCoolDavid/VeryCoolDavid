@@ -58,9 +58,9 @@
 
 I'm a **Computer Science & Engineering student** and **Aspiring Software Engineer** focused on full-stack development and backend engineering.
 
-I build practical web applications using **JavaScript, TypeScript, React, Node.js, Express.js, and MongoDB**, while exploring **PostgreSQL, Redis, Docker, and system design** to deepen my backend knowledge.
+I build practical web applications using **JavaScript, TypeScript, React, Node.js, Express.js and MongoDB**, while exploring **PostgreSQL, Redis, Docker and system design** to deepen my backend knowledge.
 
-I'm passionate about building scalable applications, understanding how systems work behind the scenes, and continuously turning what I learn into real-world projects.
+I'm passionate about building scalable applications, understanding how systems work behind the scenes and continuously turning what I learn into real-world projects.
 
 ---
 
@@ -74,21 +74,21 @@ I'm passionate about building scalable applications, understanding how systems w
 <td width="50%" valign="top">
 
 ### 🛠️ Building
-- 🌐 Full-stack web applications with React, Node.js, and Express.js
-- ⚙️ Backend services and RESTful APIs
-- 🗄️ Database-driven applications using MongoDB and PostgreSQL
-- 🔐 Authentication systems and secure API architectures
-- 📊 Exploring scalable backend systems, caching, and system design
+- Full-stack web applications with React, Node.js and Express.js
+- Backend services and RESTful APIs
+- Database-driven applications using MongoDB and PostgreSQL
+- Authentication systems and secure API architectures
+- Exploring scalable backend systems, caching and system design
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Learning & Exploring
-- 🟢 Backend Engineering with Node.js, Express.js & TypeScript
-- 🗄️ PostgreSQL & Database Management for efficient data handling
-- ⚡ Redis & Caching for performance optimization
-- 🐳 Docker & Containerization for application deployment
-- 🏗️ System Design and scalable backend architectures
+- Backend Engineering with Node.js, Express.js & TypeScript
+- PostgreSQL & Database Management for efficient data handling
+- Redis & Caching for performance optimization
+- Docker & Containerization for application deployment
+- System Design and scalable backend architectures
 
 </td>
 </tr>
@@ -104,11 +104,12 @@ I'm passionate about building scalable applications, understanding how systems w
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
   &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="58" height="58" />
+  &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
   &nbsp;&nbsp;
-
 </div>
 
 <br/>
@@ -117,32 +118,31 @@ I'm passionate about building scalable applications, understanding how systems w
 <tr>
 <td align="right" width="170"><b>🧠 Languages & Core</b></td>
 <td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c&theme=dark&animate=true" width="48" height="48" alt="c" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
-  
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark&animate=true" width="48" height="48" alt="anaconda" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark&animate=true" width="48" height="48" alt="javascript" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark&animate=true" width="48" height="48" alt="typescript" />
+ 
 </td>
 </tr>
 <tr>
-<td align="right"><b>🤖 AI / ML / DL</b></td>
+<td align="right"><b>🤖 Frameworks & Technologies</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="pytorch" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>☁️ Cloud · MLOps</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark&animate=true" width="48" height="48" alt="aws" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark&animate=true" width="48" height="48" alt="react" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark&animate=true" width="48" height="48" alt="nodejs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark&animate=true" width="48" height="48" alt="express" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=restapi&theme=dark&animate=true" width="48" height="48" alt="restapi" />
 </td>
 </tr>
 <tr>
-<td align="right"><b>🗄️ Data · Streaming</b></td>
+<td align="right"><b>🗄️ Database & Developer Tools</b></td>
 <td>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark&animate=true" width="48" height="48" alt="redis" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
 </td>
 </tr>
 </table>
