@@ -123,7 +123,7 @@ I'm passionate about understanding how systems work behind the scenes, solving r
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark&animate=true" width="48" height="48" alt="redis" />
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
 </td>
 </tr>
 </table>
@@ -163,6 +163,5 @@ I'm passionate about understanding how systems work behind the scenes, solving r
 <!-- ============================================================ -->
 <div align="center">
 
-**_Thanks for stopping by! If you find my work useful 🙂 , consider [following](https://github.com/VeryCoolDavid) or starring a repo.
-_**
+**_Thanks for stopping by! If you find my work useful 🙂 , consider [following](https://github.com/VeryCoolDavid) or starring a repo._**
 </div>
