@@ -57,17 +57,15 @@ I'm passionate about understanding how systems work behind the scenes, solving r
 <td width="50%" valign="top">
 
 ### 🛠️ Building
-- Full-stack web applications with React, Node.js and Express.js
+- Full-stack web applications with React, Node.js, Express.js & TypeScript
 - Backend services and RESTful APIs
 - Database-driven applications using MongoDB and PostgreSQL
 - Authentication systems and secure API architectures
-- Exploring scalable backend systems, caching and system design
-
+  
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Learning & Exploring
-- Backend Engineering with Node.js, Express.js & TypeScript
 - Python for AI/ML
 - Redis & Caching for performance optimization
 - Docker & Containerization for application deployment
