@@ -100,7 +100,6 @@ I'm passionate about understanding how systems work behind the scenes, solving r
 <tr>
 <td align="right" width="170"><b>🧠 Languages & Core</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c&theme=dark&animate=true" width="48" height="48" alt="c" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark&animate=true" width="48" height="48" alt="javascript" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark&animate=true" width="48" height="48" alt="typescript" />
