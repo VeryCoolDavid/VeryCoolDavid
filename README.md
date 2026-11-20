@@ -43,7 +43,7 @@ I'm a Computer Science Engineer specializing in backend engineering and full-sta
 
 Beyond development, I have a foundation in data structures and algorithms, computer science fundamentals and system design. I'm interested in building reliable software, solving engineering problems and understanding what goes into designing and developing applications beyond just their features.
 
----
+
 
 <!-- ============================================================ -->
 <!--                  CURRENTLY BUILDING / LEARNING               -->
@@ -73,7 +73,7 @@ Beyond development, I have a foundation in data structures and algorithms, compu
 </tr>
 </table>
 
----
+
 
 <!-- ============================================================ -->
 <!--                          TECH STACK                          -->
