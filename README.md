@@ -6,10 +6,10 @@
 
 # Hi I'm David Debbarma
 
-#### Software Engineer · Full-Stack & Backend Development
+#### Software Engineer · Backend & Full-Stack Engineering
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+%26+Backend+Development;Scalable+Web+Applications+%26+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Building+Full-Stack+Applications;Backend+Engineering+%26+API+Development;Scalable+%26+Efficient+Web+Applications" alt="Typing SVG" />
 </a>
 
 </div>
@@ -31,7 +31,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 👾 _"I build full-stack applications and explore backend engineering — turning ideas into practical projects."_
+###  _"Building efficient applications and well-structured backend systems."_
 
 </div>
 
@@ -39,11 +39,9 @@
 
 ## 👋 Who I Am
 
-I'm a **Computer Science & Engineering** graduate focused on **full-stack development and backend engineering**, with an interest in building scalable and efficient software systems..
+I'm a Computer Science Engineer focused on backend engineering and full-stack development. I build web applications using Python, JavaScript, TypeScript, React, Next.js, Node.js, Express.js and FastAPI, with PostgreSQL and MongoDB for data management. My experience also includes Redis, Docker and designing REST APIs.
 
-I develop practical web applications using **JavaScript, TypeScript, React, Node.js, Express.js, SQL and MongoDB**, while exploring **Redis, Docker and system design** to deepen my backend knowledge.
-
-I'm passionate about understanding how systems work behind the scenes, solving real-world problems and continuously turning what I learn into practical projects.
+Beyond development, I have a foundation in data structures and algorithms, computer science fundamentals and system design. I'm interested in building reliable software, solving engineering problems and understanding what goes into designing and developing applications beyond just their features.
 
 ---
 
