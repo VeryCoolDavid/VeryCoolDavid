@@ -83,7 +83,15 @@ I'm passionate about understanding how systems work behind the scenes, solving r
 ## 🧰 Tech Stack
 
 <div align="center">
- [![Tech stack: Tailwind CSS, React, JavaScript, TypeScript, Node.js, Express, Next.js, Python, FastAPI, MongoDB, PostgreSQL, Supabase, Docker, AWS, Git, GitHub](https://stack.rajinkhan.com/v1/stack.svg?i=tailwindcss%2Creact%2Cjavascript%2Ctypescript%2Cnodedotjs%2Cexpress%2Cnextdotjs%2Cpython%2Cfastapi%2Cmongodb%2Cpostgresql%2Csupabase%2Cdocker%2Camazonwebservices%2Cgit%2Cgithub&t=light&s=fast)](https://stack.rajinkhan.com/?i=tailwindcss%2Creact%2Cjavascript%2Ctypescript%2Cnodedotjs%2Cexpress%2Cnextdotjs%2Cpython%2Cfastapi%2Cmongodb%2Cpostgresql%2Csupabase%2Cdocker%2Camazonwebservices%2Cgit%2Cgithub&t=light&s=fast)
+
+<a href="https://stack.rajinkhan.com/?i=git%2Cgithub%2Ctailwindcss%2Creact%2Cnodedotjs%2Cnextdotjs%2Cjavascript%2Ctypescript%2Cpython%2Cfastapi%2Cpostgresql%2Cmongodb%2Csupabase%2Credis%2Cdocker%2Camazonwebservices&t=light&s=fast&g=compact">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stack.rajinkhan.com/v1/stack.svg?i=git%2Cgithub%2Ctailwindcss%2Creact%2Cnodedotjs%2Cnextdotjs%2Cjavascript%2Ctypescript%2Cpython%2Cfastapi%2Cpostgresql%2Cmongodb%2Csupabase%2Credis%2Cdocker%2Camazonwebservices&s=fast&g=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://stack.rajinkhan.com/v1/stack.svg?i=git%2Cgithub%2Ctailwindcss%2Creact%2Cnodedotjs%2Cnextdotjs%2Cjavascript%2Ctypescript%2Cpython%2Cfastapi%2Cpostgresql%2Cmongodb%2Csupabase%2Credis%2Cdocker%2Camazonwebservices&t=light&s=fast&g=compact">
+    <img alt="Tech stack: Git, GitHub, Tailwind CSS, React, Node.js, Next.js, JavaScript, TypeScript, Python, FastAPI, PostgreSQL, MongoDB, Supabase, Redis, Docker, AWS" src="https://stack.rajinkhan.com/v1/stack.svg?i=git%2Cgithub%2Ctailwindcss%2Creact%2Cnodedotjs%2Cnextdotjs%2Cjavascript%2Ctypescript%2Cpython%2Cfastapi%2Cpostgresql%2Cmongodb%2Csupabase%2Credis%2Cdocker%2Camazonwebservices&t=light&s=fast&g=compact">
+  </picture>
+</a>
+
 </div>
 
 <br/>
@@ -104,7 +112,7 @@ I'm passionate about understanding how systems work behind the scenes, solving r
 <td>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark&animate=true" width="48" height="48" alt="react" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark&animate=true" width="48" height="48" alt="nodejs" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark&animate=true" width="48" height="48" alt="express" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark&animate=true" width="48" height="48" alt="next" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
 </td>
 </tr>
