@@ -158,5 +158,5 @@ Beyond development, I have a foundation in data structures and algorithms, compu
 <!-- ============================================================ -->
 <div align="center">
 
-**_Thanks for stopping by! If you find my work useful 🙂 , consider [following](https://github.com/VeryCoolDavid) or starring a repo._**
+**_Thanks for visiting! `git follow` to stay updated with future commits, projects, and experiments._**
 </div>
