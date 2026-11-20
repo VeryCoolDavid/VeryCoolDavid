@@ -3,6 +3,8 @@
 <!--                            HEADER                            -->
 <!-- ============================================================ -->
 <div align="center">
+  
+<img src="vector.jpg" width="100%" height="200"  />
 
 # Hi I'm David Debbarma
 
