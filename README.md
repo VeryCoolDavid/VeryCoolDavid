@@ -24,7 +24,6 @@
 
 </div>
 
----
 
 <!-- ============================================================ -->
 <!--                       BRAND STATEMENT                        -->
@@ -123,6 +122,8 @@ Beyond development, I have a foundation in data structures and algorithms, compu
 ###  _"Focused on building efficient applications and well-structured backend systems."_
 
 </div>
+
+
 ---
 
 
