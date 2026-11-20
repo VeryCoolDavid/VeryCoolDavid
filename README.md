@@ -83,14 +83,7 @@ I'm passionate about understanding how systems work behind the scenes, solving r
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
-  &nbsp;&nbsp;
+ [![Tech stack: Tailwind CSS, React, JavaScript, TypeScript, Node.js, Express, Next.js, Python, FastAPI, MongoDB, PostgreSQL, Supabase, Docker, AWS, Git, GitHub](https://stack.rajinkhan.com/v1/stack.svg?i=tailwindcss%2Creact%2Cjavascript%2Ctypescript%2Cnodedotjs%2Cexpress%2Cnextdotjs%2Cpython%2Cfastapi%2Cmongodb%2Cpostgresql%2Csupabase%2Cdocker%2Camazonwebservices%2Cgit%2Cgithub&t=light&s=fast)](https://stack.rajinkhan.com/?i=tailwindcss%2Creact%2Cjavascript%2Ctypescript%2Cnodedotjs%2Cexpress%2Cnextdotjs%2Cpython%2Cfastapi%2Cmongodb%2Cpostgresql%2Csupabase%2Cdocker%2Camazonwebservices%2Cgit%2Cgithub&t=light&s=fast)
 </div>
 
 <br/>
