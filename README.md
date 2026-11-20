@@ -29,12 +29,6 @@
 <!-- ============================================================ -->
 <!--                       BRAND STATEMENT                        -->
 <!-- ============================================================ -->
-<div align="center">
-
-###  _"Focused on building efficient applications and well-structured backend systems."_
-
-</div>
-
 
 
 ## 👋 Who I Am
@@ -124,7 +118,11 @@ Beyond development, I have a foundation in data structures and algorithms, compu
 </tr>
 </table>
 
+<div align="center">
 
+###  _"Focused on building efficient applications and well-structured backend systems."_
+
+</div>
 ---
 
 
