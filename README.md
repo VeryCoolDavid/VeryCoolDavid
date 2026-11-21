@@ -79,6 +79,7 @@ Beyond development, I have a foundation in data structures and algorithms, compu
 
 <a href="https://stack.rajinkhan.com/?i=git%2Cgithub%2Ctailwindcss%2Creact%2Cnodedotjs%2Cnextdotjs%2Cjavascript%2Ctypescript%2Cpython%2Cfastapi%2Cpostgresql%2Cmongodb%2Csupabase%2Credis%2Cdocker%2Camazonwebservices&t=light&s=fast&g=compact">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stack.rajinkhan.com/v1/stack.svg?i=git%2Cgithub%2Ctailwindcss%2Creact%2Cnodedotjs%2Cnextdotjs%2Cjavascript%2Ctypescript%2Cpython%2Cfastapi%2Cpostgresql%2Cmongodb%2Csupabase%2Credis%2Cdocker%2Camazonwebservices&s=fast&g=compact">
     <source media="(prefers-color-scheme: light)" srcset="https://stack.rajinkhan.com/v1/stack.svg?i=git%2Cgithub%2Ctailwindcss%2Creact%2Cnodedotjs%2Cnextdotjs%2Cjavascript%2Ctypescript%2Cpython%2Cfastapi%2Cpostgresql%2Cmongodb%2Csupabase%2Credis%2Cdocker%2Camazonwebservices&t=light&s=fast&g=compact">
     <img alt="Tech stack: Git, GitHub, Tailwind CSS, React, Node.js, Next.js, JavaScript, TypeScript, Python, FastAPI, PostgreSQL, MongoDB, Supabase, Redis, Docker, AWS" src="https://stack.rajinkhan.com/v1/stack.svg?i=git%2Cgithub%2Ctailwindcss%2Creact%2Cnodedotjs%2Cnextdotjs%2Cjavascript%2Ctypescript%2Cpython%2Cfastapi%2Cpostgresql%2Cmongodb%2Csupabase%2Credis%2Cdocker%2Camazonwebservices&t=light&s=fast&g=compact">
   </picture>
